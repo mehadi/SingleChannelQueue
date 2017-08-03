@@ -1,3 +1,4 @@
 ### Single-Channel Queue In PHP
 #### Definition
-> Simple Implementation of Single-Channel Queue In PHP.
+> In simulating real world systems on computer like a Single channel queue consisting of a single server for serving the
+queue of customers.
