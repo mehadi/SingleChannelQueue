@@ -1,3 +1,3 @@
-Single-Channel Queue In PHP
-
-Simple Implementation of Single-Channel Queue In PHP
+###Single-Channel Queue In PHP
+#### Definition
+> Simple Implementation of Single-Channel Queue In PHP.
